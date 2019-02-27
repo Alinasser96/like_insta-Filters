@@ -3,8 +3,6 @@
 
 # # Image Processing 1 -Instagram Filters
 
-#     علي ناصر الدين علي السيد الحملاوي 1400842
-
 # ## 1- Documentation
 
 #     I have made a three basic funs that control hue_sat, channel enhancement and brightness
